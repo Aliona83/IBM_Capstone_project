@@ -51,7 +51,22 @@ To prepare the data for Cognos Analytics:
    - Age, Country, and Education Level insights
 
 👉 **Dashboard Link:**  
-📎 [View Cognos Dashboard](https://us3.ca.analytics.ibm.com/bi/?perspective=dashboard&id=iB33336341DF241D6A2D8FF856CD9F24B)
+📎 [IBM Cognos Report](https://github.com/Aliona83/IBM_Capstone_project/blob/main/Survey%20Dashboard.pdf)
+📎[ PowerPoint Project](https://github.com/Aliona83/IBM_Capstone_project/blob/main/Survey%20Dashboard.pdf)
+
+
+Alternative (Relative Path)
+If your README.md file is in the same repository and you prefer using a relative path, you can write:
+[IBM Cognos Report](Survey%20Dashboard.pdf)
+
+
+GitHub automatically converts spaces in filenames to %20 in URLs, so the above relative path should still work.
+Where to Test It
+- View your README.md in GitHub after committing the changes.
+- Click the link in the rendered markdown to check if the PDF opens.
+
+Let me know if you need any adjustments! 🚀
+)
 
 ---
 
