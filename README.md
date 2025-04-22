@@ -52,12 +52,9 @@ To prepare the data for Cognos Analytics:
 
 👉 **Dashboard Link:**  
 📎 [IBM Cognos Report](https://github.com/Aliona83/IBM_Capstone_project/blob/main/Survey%20Dashboard.pdf)
-📎[ PowerPoint Project](https://github.com/Aliona83/IBM_Capstone_project/blob/main/Survey%20Dashboard.pdf)
+📎[ PowerPoint Project](https://github.com/Aliona83/IBM_Capstone_project/blob/main/2024-capstone-story-template%202.pdf)
 
-
-Alternative (Relative Path)
-If your README.md file is in the same repository and you prefer using a relative path, you can write:
-[IBM Cognos Report](Survey%20Dashboard.pdf)
+
 
 
 GitHub automatically converts spaces in filenames to %20 in URLs, so the above relative path should still work.
